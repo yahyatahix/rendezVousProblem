@@ -17,3 +17,8 @@ La première version consiste à regrouper les agents avec une matrice de commun
 La deuxième version consiste à prendre en considération le rayon de sécurité :\\
 C'est à dire respecter cette condition :
 \[ |x_{j}^{k} - x_{i}^{k} | \times a_{ij} \geq 2 \times r_{sécurité}  \]
+
+
+#### Environement
+
+package celluloid, ffmpeg
